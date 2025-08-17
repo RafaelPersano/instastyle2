@@ -1,1 +1,1 @@
-// Failed to fetch content for components/HistorySidebar.tsx
+// Failed to fetch components/HistorySidebar.tsx

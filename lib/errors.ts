@@ -1,1 +1,1 @@
-// Failed to fetch content for lib/errors.ts
+// Failed to fetch lib/errors.ts

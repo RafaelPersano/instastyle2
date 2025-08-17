@@ -1,1 +1,1 @@
-// Failed to fetch content for lib/compositions.ts
+// Failed to fetch lib/compositions.ts

@@ -1,1 +1,1 @@
-// Failed to fetch content for services/supabaseClient.ts
+// Failed to fetch services/supabaseClient.ts

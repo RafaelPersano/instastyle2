@@ -1,1 +1,1 @@
-// Failed to fetch content for lib/styles.ts
+// Failed to fetch lib/styles.ts

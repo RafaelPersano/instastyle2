@@ -1,1 +1,1 @@
-// Failed to fetch content for lib/ctas.ts
+// Failed to fetch lib/ctas.ts

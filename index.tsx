@@ -1,1 +1,1 @@
-// Failed to fetch content for index.tsx
+// Failed to fetch index.tsx

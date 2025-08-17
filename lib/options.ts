@@ -1,1 +1,1 @@
-// Failed to fetch content for lib/options.ts
+// Failed to fetch lib/options.ts

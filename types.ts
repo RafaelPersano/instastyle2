@@ -1,1 +1,1 @@
-// Failed to fetch content for types.ts
+// Failed to fetch types.ts

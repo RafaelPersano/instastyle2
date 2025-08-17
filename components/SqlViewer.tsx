@@ -1,1 +1,1 @@
-// Failed to fetch content for components/SqlViewer.tsx
+// Failed to fetch components/SqlViewer.tsx

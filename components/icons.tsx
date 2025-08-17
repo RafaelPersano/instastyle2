@@ -1,1 +1,1 @@
-// Failed to fetch content for components/icons.tsx
+// Failed to fetch components/icons.tsx

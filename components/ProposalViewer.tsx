@@ -1,1 +1,1 @@
-// Failed to fetch content for components/ProposalViewer.tsx
+// Failed to fetch components/ProposalViewer.tsx

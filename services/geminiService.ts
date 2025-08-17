@@ -1,1 +1,1 @@
-// Failed to fetch content for services/geminiService.ts
+// Failed to fetch services/geminiService.ts
